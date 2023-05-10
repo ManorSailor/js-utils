@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders initial heading 1`] = `
+<div>
+  <h1>
+    Our First Test
+  </h1>
+</div>
+`;

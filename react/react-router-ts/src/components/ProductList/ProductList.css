@@ -1,0 +1,6 @@
+.product-list {
+  gap: 1.5rem;
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}

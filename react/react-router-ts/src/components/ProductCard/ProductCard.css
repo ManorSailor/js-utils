@@ -1,0 +1,31 @@
+.product-card {
+  padding: 1rem;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 250ms ease;
+}
+
+.product-card:hover {
+  transform: translateY(-8px);
+}
+
+.product-card > * {
+  margin: 0;
+}
+
+.product-card__thumbnail {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-card__title {
+  font-size: 1.25rem;
+  margin-block: 0.25rem;
+}
+
+.product-card__price {
+  font-size: 1.25rem;
+  font-style: italic;
+  letter-spacing: 0.5px;
+}

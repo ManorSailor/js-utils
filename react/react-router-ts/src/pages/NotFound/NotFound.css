@@ -1,0 +1,12 @@
+.content__not-found {
+  text-align: center;
+}
+
+.not-found__title {
+  font-size: 2rem;
+}
+
+.not-found__redirect {
+  font-size: 1.5rem;
+  font-style: italic;
+}
