@@ -2,7 +2,7 @@ import { ReactElement, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 import "./NotFound.css";
-import ContentWrapper from "@components/ContentWrapper";
+import ContentWrapper from "@/components/ContentWrapper";
 
 function NotFound(): ReactElement {
   const navigate = useNavigate();

@@ -1,8 +1,8 @@
 import { ReactElement } from "react";
 
 import "./Products.css";
-import ContentWrapper from "@components/ContentWrapper";
-import ProductList from "@components/ProductList";
+import ContentWrapper from "@/components/ContentWrapper";
+import ProductList from "@/components/ProductList";
 
 function Products({ products }: { products: Product[] }): ReactElement {
   return (

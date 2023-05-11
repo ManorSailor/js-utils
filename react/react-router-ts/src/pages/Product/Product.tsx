@@ -2,7 +2,7 @@
 import { ReactElement } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 
-import ProductCard from "@components/ProductCard";
+import ProductCard from "@/components/ProductCard";
 
 function Product({ products }: { products: Product[] }): ReactElement {
   const navigate = useNavigate();
