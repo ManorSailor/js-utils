@@ -2,7 +2,7 @@ import { ReactElement } from "react";
 import { Link } from "react-router-dom";
 
 import "./Home.css";
-import ContentWrapper from "@components/ContentWrapper";
+import ContentWrapper from "@/components/ContentWrapper";
 
 function Home(): ReactElement {
   return (

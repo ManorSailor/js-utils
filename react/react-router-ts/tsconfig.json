@@ -20,9 +20,9 @@
     "noFallthroughCasesInSwitch": true,
 
     /* Path Mapping */
-    "baseUrl": ".", // Required for intellisense to work
+    "types": ["node"],
     "paths": {
-      "@components/*": ["./src/components/*"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src"],

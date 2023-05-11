@@ -2,7 +2,7 @@
 import { ReactElement } from "react";
 
 import "./ProductItem.css";
-import ProductCard from "@components/ProductCard";
+import ProductCard from "@/components/ProductCard";
 
 function ProductItem(props: Product): ReactElement {
   return (

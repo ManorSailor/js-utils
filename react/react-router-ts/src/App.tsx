@@ -1,7 +1,7 @@
 import { ReactElement } from "react";
 import { Route, Routes } from "react-router-dom";
 
-import Navbar from "@components/Navbar";
+import Navbar from "@/components/Navbar";
 import { Home, Product, Products, NotFound } from "./pages";
 
 import useProducts from "./hooks/useProducts";

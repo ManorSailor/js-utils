@@ -2,7 +2,7 @@
 import { ReactElement } from "react";
 
 import "./ProductList.css";
-import ProductItem from "@components/ProductItem";
+import ProductItem from "@/components/ProductItem";
 
 function ProductList({ products }: { products: Product[] }): ReactElement {
   return (
