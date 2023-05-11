@@ -21,6 +21,7 @@
 
     /* Path Mapping */
     "types": ["node"],
+    "baseUrl": ".", // Required for intellisense to work
     "paths": {
       "@/*": ["./src/*"]
     }
