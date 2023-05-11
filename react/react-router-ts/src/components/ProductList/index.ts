@@ -1,4 +1,3 @@
-import ProductList, { Products } from "./ProductList";
+import ProductList from "./ProductList";
 
 export default ProductList;
-export type { Products };
