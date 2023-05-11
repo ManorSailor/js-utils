@@ -26,6 +26,15 @@ module.exports = {
     "react/react-in-jsx-scope": "off",
     "react/require-default-props": "off",
     "@typescript-eslint/no-shadow": "off",
+    "import/extensions": [
+      "error",
+      {
+        js: "never",
+        jsx: "never",
+        ts: "never",
+        tsx: "never",
+      },
+    ],
   },
   ignorePatterns: [".eslintrc.cjs", "vite.config.ts"],
   settings: {
