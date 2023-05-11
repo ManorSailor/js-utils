@@ -1,14 +1,16 @@
 /* eslint-disable react/jsx-props-no-spreading */
-import { ReactElement } from "react";
+import { ReactElement, useContext } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 
+import { ProductsContext } from "@/context/ProductsProvider";
 import ProductCard from "@/components/ProductCard";
 
-function Product({ products }: { products: Product[] }): ReactElement {
+function Product(): ReactElement {
   const navigate = useNavigate();
   const { id: productID } = useParams();
+  const products = useContext(ProductsContext);
 
-  const product = products.find((p) => p.id === parseInt(productID ?? "", 10));
+  const product = products?.find((p) => p.id === parseInt(productID ?? "", 10));
 
   return (
     <>

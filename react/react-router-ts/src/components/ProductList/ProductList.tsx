@@ -1,10 +1,14 @@
 /* eslint-disable react/jsx-props-no-spreading */
-import { ReactElement } from "react";
+import { ReactElement, useContext } from "react";
+
+import { ProductsContext } from "@/context/ProductsProvider";
 
 import "./ProductList.css";
 import ProductItem from "@/components/ProductItem";
 
-function ProductList({ products }: { products: Product[] }): ReactElement {
+function ProductList(): ReactElement {
+  const products = useContext(ProductsContext);
+
   return (
     <ul className="product-list">
       {products?.map((product) => (

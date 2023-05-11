@@ -27,6 +27,7 @@ module.exports = {
     "react/require-default-props": "off",
     "@typescript-eslint/no-shadow": "off",
   },
+  ignorePatterns: [".eslintrc.cjs", "vite.config.ts"],
   settings: {
     react: {
       version: "detect", // Required to silence the warning of eslint-plugin-react thrown on running lint command
