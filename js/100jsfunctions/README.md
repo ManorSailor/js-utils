@@ -15,3 +15,4 @@ This contains my solutions to the problems on the website.
 4. [max5](https://www.100jsfunctions.com/exercises/max5) -> [Solution](./4.%20max5/max5.js)
 5. [getMonthsNeededToWait](https://www.100jsfunctions.com/exercises/getMonthsNeededToWait) -> [Solution](./5.%20getMonthsNeededToWait/getMonthsNeededToWait.js)
 6. [getGasolineAmount](https://www.100jsfunctions.com/exercises/getGasolineAmount) -> [Solution](./6.%20getGasolineAmount/getGasolineAmount.js)
+6. [lastNRevert](https://www.100jsfunctions.com/exercises/lastNRevert) -> [Solution](./7.%20lastNRevert/lastNRevert.js)
