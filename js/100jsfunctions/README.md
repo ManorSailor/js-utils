@@ -20,3 +20,4 @@ This contains my solutions to the problems on the website.
 9. [getUserObject](https://www.100jsfunctions.com/exercises/getUserObject) -> [Solution](./9.%20getUserObject/getUserObject.js)
 10. [canDriveCar](https://www.100jsfunctions.com/exercises/canDriveCar) -> [Solution](./10.%20canDriveCar/canDriveCar.js)
 11. [areAllNumbersEven](https://www.100jsfunctions.com/exercises/areAllNumbersEven) -> [Solution](./11.%20areAllNumbersEven/areAllNumbersEven.js)
+12. [getBiggestNumberInArrays](https://www.100jsfunctions.com/exercises/getBiggestNumberInArrays) -> [Solution](./12.%20getBiggestNumberInArrays/getBiggestNumberInArrays.js)
