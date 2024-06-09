@@ -23,3 +23,4 @@ This contains my solutions to the problems on the website.
 12. [getBiggestNumberInArrays](https://www.100jsfunctions.com/exercises/getBiggestNumberInArrays) -> [Solution](./12.%20getBiggestNumberInArrays/getBiggestNumberInArrays.js)
 13. [getLongestString](https://www.100jsfunctions.com/exercises/getLongestString) -> [Solution](./13.%20getLongestString/getLongestString.js)
 14. [everyNPositions](https://www.100jsfunctions.com/exercises/everyNPositions) -> [Solution](./14.%20everyNPositions/everyNPositions.js)
+15. [doubleNumbers](https://www.100jsfunctions.com/exercises/doubleNumbers) -> [Solution](./15.%20doubleNumbers/doubleNumbers.js)
