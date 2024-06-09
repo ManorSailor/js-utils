@@ -18,4 +18,5 @@ This contains my solutions to the problems on the website.
 7. [lastNRevert](https://www.100jsfunctions.com/exercises/lastNRevert) -> [Solution](./7.%20lastNRevert/lastNRevert.js)
 8. [getBusinessAddress](https://www.100jsfunctions.com/exercises/getBusinessAddress) -> [Solution](./8.%20getBusinessAddress/getBusinessAddress.js)
 9. [getUserObject](https://www.100jsfunctions.com/exercises/getUserObject) -> [Solution](./9.%20getUserObject/getUserObject.js)
-10. [canDriveCar](https://www.100jsfunctions.com/exercises/canDriveCar) -> [Solution](./9.%20canDriveCar/canDriveCar.js)
+10. [canDriveCar](https://www.100jsfunctions.com/exercises/canDriveCar) -> [Solution](./10.%20canDriveCar/canDriveCar.js)
+11. [areAllNumbersEven](https://www.100jsfunctions.com/exercises/areAllNumbersEven) -> [Solution](./11.%20areAllNumbersEven/areAllNumbersEven.js)
