@@ -24,3 +24,8 @@ This contains my solutions to the problems on the website.
 13. [getLongestString](https://www.100jsfunctions.com/exercises/getLongestString) -> [Solution](./13.%20getLongestString/getLongestString.js)
 14. [everyNPositions](https://www.100jsfunctions.com/exercises/everyNPositions) -> [Solution](./14.%20everyNPositions/everyNPositions.js)
 15. [doubleNumbers](https://www.100jsfunctions.com/exercises/doubleNumbers) -> [Solution](./15.%20doubleNumbers/doubleNumbers.js)
+16. [mostRepetitions](https://www.100jsfunctions.com/exercises/mostRepetitions) -> [Solution](./16.%20mostRepetitions/mostRepetitions.js)
+17. [getMillisecondsBetween](https://www.100jsfunctions.com/exercises/getMillisecondsBetween) -> [Solution](./17.%20getMillisecondsBetween/getMillisecondsBetween.js)
+18. [getMonthOfTheYear](https://www.100jsfunctions.com/exercises/getMonthOfTheYear) -> [Solution](./18.%20getMonthOfTheYear/getMonthOfTheYear.js)
+19. [addDays](https://www.100jsfunctions.com/exercises/addDays) -> [Solution](./19.%20addDays/addDays.js)
+20. [getDevelopers](https://www.100jsfunctions.com/exercises/getDevelopers) -> [Solution](./20.%20getDevelopers/getDevelopers.js)
