@@ -29,3 +29,8 @@ This contains my solutions to the problems on the website.
 18. [getMonthOfTheYear](https://www.100jsfunctions.com/exercises/getMonthOfTheYear) -> [Solution](./18.%20getMonthOfTheYear/getMonthOfTheYear.js)
 19. [addDays](https://www.100jsfunctions.com/exercises/addDays) -> [Solution](./19.%20addDays/addDays.js)
 20. [getDevelopers](https://www.100jsfunctions.com/exercises/getDevelopers) -> [Solution](./20.%20getDevelopers/getDevelopers.js)
+21. [extractElementsBetweenPositions](https://www.100jsfunctions.com/exercises/extractElementsBetweenPositions) -> [Solution](./21.%20extractElementsBetweenPositions/extractElementsBetweenPositions.js)
+22. [isSorted](https://www.100jsfunctions.com/exercises/isSorted) -> [Solution](./22.%20isSorted/isSorted.js)
+23. [halfAndHalf](https://www.100jsfunctions.com/exercises/halfAndHalf) -> [Solution](./23.%20halfAndHalf/halfAndHalf.js)
+24. [isSameDay](https://www.100jsfunctions.com/exercises/isSameDay) -> [Solution](./24.%20isSameDay/isSameDay.js)
+25. [getMaxMovingDistance](https://www.100jsfunctions.com/exercises/getMaxMovingDistance) -> [Solution](./25.%20getMaxMovingDistance/getMaxMovingDistance.js)
