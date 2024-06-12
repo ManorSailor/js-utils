@@ -34,3 +34,8 @@ This contains my solutions to the problems on the website.
 23. [halfAndHalf](https://www.100jsfunctions.com/exercises/halfAndHalf) -> [Solution](./23.%20halfAndHalf/halfAndHalf.js)
 24. [isSameDay](https://www.100jsfunctions.com/exercises/isSameDay) -> [Solution](./24.%20isSameDay/isSameDay.js)
 25. [getMaxMovingDistance](https://www.100jsfunctions.com/exercises/getMaxMovingDistance) -> [Solution](./25.%20getMaxMovingDistance/getMaxMovingDistance.js)
+26. [arrayToObject](https://www.100jsfunctions.com/exercises/arrayToObject) -> [Solution](./26.%20arrayToObject/arrayToObject.js)
+27. [pickFields](https://www.100jsfunctions.com/exercises/pickFields) -> [Solution](./27.%20pickFields/pickFields.js)
+28. [getHighestPaidEmployee](https://www.100jsfunctions.com/exercises/getHighestPaidEmployee) -> [Solution](./28.%20getHighestPaidEmployee/getHighestPaidEmployee.js)
+29. [flipObject](https://www.100jsfunctions.com/exercises/flipObject) -> [Solution](./29.%20flipObject/flipObject.js)
+30. [diffArrays](https://www.100jsfunctions.com/exercises/diffArrays) -> [Solution](./30.%20diffArrays/diffArrays.js)
