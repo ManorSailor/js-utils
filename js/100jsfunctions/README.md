@@ -38,7 +38,23 @@ This contains my solutions to the problems on the website.
 27. [pickFields](https://www.100jsfunctions.com/exercises/pickFields) -> [Solution](./27.%20pickFields/pickFields.js)
 28. [getHighestPaidEmployee](https://www.100jsfunctions.com/exercises/getHighestPaidEmployee) -> [Solution](./28.%20getHighestPaidEmployee/getHighestPaidEmployee.js)
 29. [flipObject](https://www.100jsfunctions.com/exercises/flipObject) -> [Solution](./29.%20flipObject/flipObject.js)
-30. [diffArrays](https://www.100jsfunctions.com/exercises/diffArrays) -> [Solution](./30.%20diffArrays/diffArrays.js)
+30. [diffArrays](https://www.100jsfunctions.com/exercises/diffArrays) -> [Solution](./30.%20diffArrays/diffArrays.js) *
 31. [countPageViews](https://www.100jsfunctions.com/exercises/countPageViews) -> [Solution](./31.%20countPageViews/countPageViews.js)
 32. [linkedNumbersSum](https://www.100jsfunctions.com/exercises/linkedNumbersSum) -> [Solution](./32.%20linkedNumbersSum/linkedNumbersSum.js)
 33. [getMissingContacts](https://www.100jsfunctions.com/exercises/getMissingContacts) -> [Solution](./33.%20getMissingContacts/getMissingContacts.js)
+34. [removeFirstAndLast](https://www.100jsfunctions.com/exercises/removeFirstAndLast) -> [Solution](./34.%20removeFirstAndLast/removeFirstAndLast.js)
+35. [biggestPowerOf2](https://www.100jsfunctions.com/exercises/biggestPowerOf2) -> [Solution](./35.%20biggestPowerOf2/biggestPowerOf2.js)
+36. [areValuesUnique](https://www.100jsfunctions.com/exercises/areValuesUnique) -> [Solution](./36.%20areValuesUnique/areValuesUnique.js)
+37. [fetchGithubName](https://www.100jsfunctions.com/exercises/fetchGithubName) -> [Solution](./37.%20fetchGithubName/fetchGithubName.js)
+38. [rotateArray](https://www.100jsfunctions.com/exercises/rotateArray) -> [Solution](./38.%20rotateArray/rotateArray.js)
+39. [getDaysInMonth](https://www.100jsfunctions.com/exercises/getDaysInMonth) -> [Solution](./39.%20getDaysInMonth/getDaysInMonth.js)
+40. [formatDateTime](https://www.100jsfunctions.com/exercises/formatDateTime) -> [Solution](./40.%20formatDateTime/formatDateTime.js)
+41. [toDecimal](https://www.100jsfunctions.com/exercises/toDecimal) -> [Solution](./41.%20toDecimal/toDecimal.js)
+42. [compareSets](https://www.100jsfunctions.com/exercises/compareSets) -> [Solution](./42.%20compareSets/compareSets.js)
+43. [groupBirthdays](https://www.100jsfunctions.com/exercises/groupBirthdays) -> [Solution](./43.%20groupBirthdays/groupBirthdays.js)
+44. [diffReactions](https://www.100jsfunctions.com/exercises/diffReactions) -> [Solution](./44.%20diffReactions/diffReactions.js) *
+45. [rgbToHex](https://www.100jsfunctions.com/exercises/rgbToHex) -> [Solution](./45.%20rgbToHex/rgbToHex.js) *
+
+#### Notes:
+
+- Improve upon any solution marked with `*`
