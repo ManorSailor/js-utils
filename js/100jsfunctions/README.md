@@ -39,3 +39,6 @@ This contains my solutions to the problems on the website.
 28. [getHighestPaidEmployee](https://www.100jsfunctions.com/exercises/getHighestPaidEmployee) -> [Solution](./28.%20getHighestPaidEmployee/getHighestPaidEmployee.js)
 29. [flipObject](https://www.100jsfunctions.com/exercises/flipObject) -> [Solution](./29.%20flipObject/flipObject.js)
 30. [diffArrays](https://www.100jsfunctions.com/exercises/diffArrays) -> [Solution](./30.%20diffArrays/diffArrays.js)
+31. [countPageViews](https://www.100jsfunctions.com/exercises/countPageViews) -> [Solution](./31.%20countPageViews/countPageViews.js)
+32. [linkedNumbersSum](https://www.100jsfunctions.com/exercises/linkedNumbersSum) -> [Solution](./32.%20linkedNumbersSum/linkedNumbersSum.js)
+33. [getMissingContacts](https://www.100jsfunctions.com/exercises/getMissingContacts) -> [Solution](./33.%20getMissingContacts/getMissingContacts.js)
