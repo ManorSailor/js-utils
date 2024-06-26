@@ -7,6 +7,10 @@ This contains my solutions to the problems on the website.
 - Keeping my JS skills sharp
 - Refreshing JSDoc skills
 
+#### Notes:
+
+- Improve upon any solution marked with `*`
+
 ### Problems
 
 1. [minutesToHours](https://www.100jsfunctions.com/exercises/minutesToHours) -> [Solution](./1.%20minutesToHours/minutesToHours.js)
@@ -38,7 +42,7 @@ This contains my solutions to the problems on the website.
 27. [pickFields](https://www.100jsfunctions.com/exercises/pickFields) -> [Solution](./27.%20pickFields/pickFields.js)
 28. [getHighestPaidEmployee](https://www.100jsfunctions.com/exercises/getHighestPaidEmployee) -> [Solution](./28.%20getHighestPaidEmployee/getHighestPaidEmployee.js)
 29. [flipObject](https://www.100jsfunctions.com/exercises/flipObject) -> [Solution](./29.%20flipObject/flipObject.js)
-30. [diffArrays](https://www.100jsfunctions.com/exercises/diffArrays) -> [Solution](./30.%20diffArrays/diffArrays.js) *
+30. [diffArrays](https://www.100jsfunctions.com/exercises/diffArrays) -> [Solution](./30.%20diffArrays/diffArrays.js) \*
 31. [countPageViews](https://www.100jsfunctions.com/exercises/countPageViews) -> [Solution](./31.%20countPageViews/countPageViews.js)
 32. [linkedNumbersSum](https://www.100jsfunctions.com/exercises/linkedNumbersSum) -> [Solution](./32.%20linkedNumbersSum/linkedNumbersSum.js)
 33. [getMissingContacts](https://www.100jsfunctions.com/exercises/getMissingContacts) -> [Solution](./33.%20getMissingContacts/getMissingContacts.js)
@@ -52,9 +56,10 @@ This contains my solutions to the problems on the website.
 41. [toDecimal](https://www.100jsfunctions.com/exercises/toDecimal) -> [Solution](./41.%20toDecimal/toDecimal.js)
 42. [compareSets](https://www.100jsfunctions.com/exercises/compareSets) -> [Solution](./42.%20compareSets/compareSets.js)
 43. [groupBirthdays](https://www.100jsfunctions.com/exercises/groupBirthdays) -> [Solution](./43.%20groupBirthdays/groupBirthdays.js)
-44. [diffReactions](https://www.100jsfunctions.com/exercises/diffReactions) -> [Solution](./44.%20diffReactions/diffReactions.js) *
-45. [rgbToHex](https://www.100jsfunctions.com/exercises/rgbToHex) -> [Solution](./45.%20rgbToHex/rgbToHex.js) *
-
-#### Notes:
-
-- Improve upon any solution marked with `*`
+44. [diffReactions](https://www.100jsfunctions.com/exercises/diffReactions) -> [Solution](./44.%20diffReactions/diffReactions.js) \*
+45. [rgbToHex](https://www.100jsfunctions.com/exercises/rgbToHex) -> [Solution](./45.%20rgbToHex/rgbToHex.js) \*
+46. [timeAgo](https://www.100jsfunctions.com/exercises/timeAgo) -> [Solution](./46.%20timeAgo/timeAgo.js) \*
+47. [customArraySort](https://www.100jsfunctions.com/exercises/customArraySort) -> [Solution](./47.%20customArraySort/customArraySort.js) \*
+48. [moveItems](https://www.100jsfunctions.com/exercises/moveItems) -> [Solution](./48.%20moveItems/moveItems.js) \*
+49. [isValidPassword](https://www.100jsfunctions.com/exercises/isValidPassword) -> [Solution](./49.%20isValidPassword/isValidPassword.js)
+50. [mergeSortedArrays](https://www.100jsfunctions.com/exercises/mergeSortedArrays) -> [Solution](./50.%20mergeSortedArrays/mergeSortedArrays.js) \*
