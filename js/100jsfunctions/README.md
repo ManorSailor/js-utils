@@ -9,7 +9,7 @@ This contains my solutions to the problems on the website.
 
 #### Notes:
 
-- Improve upon any solution marked with `*`
+- `*` indicates problems which I found interesting & may be improved upon further.
 
 ### Problems
 
@@ -63,3 +63,8 @@ This contains my solutions to the problems on the website.
 48. [moveItems](https://www.100jsfunctions.com/exercises/moveItems) -> [Solution](./48.%20moveItems/moveItems.js) \*
 49. [isValidPassword](https://www.100jsfunctions.com/exercises/isValidPassword) -> [Solution](./49.%20isValidPassword/isValidPassword.js)
 50. [mergeSortedArrays](https://www.100jsfunctions.com/exercises/mergeSortedArrays) -> [Solution](./50.%20mergeSortedArrays/mergeSortedArrays.js) \*
+51. [ascendingSplit](https://www.100jsfunctions.com/exercises/ascendingSplit) -> [Solution](./51.%20ascendingSplit/ascendingSplit.js) \*
+52. [findUniqueNumber](https://www.100jsfunctions.com/exercises/findUniqueNumber) -> [Solution](./52.%20findUniqueNumber/findUniqueNumber.js) \*
+53. [parseQueryParams](https://www.100jsfunctions.com/exercises/parseQueryParams) -> [Solution](./53.%20parseQueryParams/parseQueryParams.js) \*
+54. [simpleCompression](https://www.100jsfunctions.com/exercises/simpleCompression) -> [Solution](./54.%20simpleCompression/simpleCompression.js) \*
+55. [partitionArray](https://www.100jsfunctions.com/exercises/partitionArray) -> [Solution](./55.%20partitionArray/partitionArray.js)
