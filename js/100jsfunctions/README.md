@@ -68,3 +68,8 @@ This contains my solutions to the problems on the website.
 53. [parseQueryParams](https://www.100jsfunctions.com/exercises/parseQueryParams) -> [Solution](./53.%20parseQueryParams/parseQueryParams.js) \*
 54. [simpleCompression](https://www.100jsfunctions.com/exercises/simpleCompression) -> [Solution](./54.%20simpleCompression/simpleCompression.js) \*
 55. [partitionArray](https://www.100jsfunctions.com/exercises/partitionArray) -> [Solution](./55.%20partitionArray/partitionArray.js)
+56. [findFreeCalendarSpots](https://www.100jsfunctions.com/exercises/findFreeCalendarSpots) -> [Solution](./56.%20findFreeCalendarSpots/findFreeCalendarSpots.js) \*
+57. [mergeIntervals](https://www.100jsfunctions.com/exercises/mergeIntervals) -> [Solution](./57.%20mergeIntervals/mergeIntervals.js) \*
+58. [simpleURLParser](https://www.100jsfunctions.com/exercises/simpleURLParser) -> [Solution](./58.%20simpleURLParser/simpleURLParser.js) \*
+59. [pickNested](https://www.100jsfunctions.com/exercises/pickNested) -> [Solution](./59.%20pickNested/pickNested.js) \*
+60. [fetchNamesOfAllPublicRepos](https://www.100jsfunctions.com/exercises/fetchNamesOfAllPublicRepos) -> [Solution](./60.%20fetchNamesOfAllPublicRepos/fetchNamesOfAllPublicRepos.js) \*
