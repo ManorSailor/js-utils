@@ -73,3 +73,8 @@ This contains my solutions to the problems on the website.
 58. [simpleURLParser](https://www.100jsfunctions.com/exercises/simpleURLParser) -> [Solution](./58.%20simpleURLParser/simpleURLParser.js) \*
 59. [pickNested](https://www.100jsfunctions.com/exercises/pickNested) -> [Solution](./59.%20pickNested/pickNested.js) \*
 60. [fetchNamesOfAllPublicRepos](https://www.100jsfunctions.com/exercises/fetchNamesOfAllPublicRepos) -> [Solution](./60.%20fetchNamesOfAllPublicRepos/fetchNamesOfAllPublicRepos.js) \*
+61. [getPaginatedData](https://www.100jsfunctions.com/exercises/getPaginatedData) -> [Solution](./61.%20getPaginatedData/getPaginatedData.js) \*
+62. [getCheckPassword](https://www.100jsfunctions.com/exercises/getCheckPassword) -> [Solution](./62.%20getCheckPassword/getCheckPassword.js)
+63. [add5](https://www.100jsfunctions.com/exercises/add5) -> [Solution](./63.%20add5/add5.js)
+64. [addN](https://www.100jsfunctions.com/exercises/addN) -> [Solution](./64.%20addN/addN.js)
+65. [fetchClosedPullRequests](https://www.100jsfunctions.com/exercises/fetchClosedPullRequests) -> [Solution](./65.%20fetchClosedPullRequests/fetchClosedPullRequests.js)
