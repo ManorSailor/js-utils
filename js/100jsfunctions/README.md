@@ -77,4 +77,9 @@ This contains my solutions to the problems on the website.
 62. [getCheckPassword](https://www.100jsfunctions.com/exercises/getCheckPassword) -> [Solution](./62.%20getCheckPassword/getCheckPassword.js)
 63. [add5](https://www.100jsfunctions.com/exercises/add5) -> [Solution](./63.%20add5/add5.js)
 64. [addN](https://www.100jsfunctions.com/exercises/addN) -> [Solution](./64.%20addN/addN.js)
-65. [fetchClosedPullRequests](https://www.100jsfunctions.com/exercises/fetchClosedPullRequests) -> [Solution](./65.%20fetchClosedPullRequests/fetchClosedPullRequests.js)
+65. [fetchClosedPullRequests](https://www.100jsfunctions.com/exercises/fetchClosedPullRequests) -> [Solution](./65.%20fetchClosedPullRequests/fetchClosedPullRequests.js) \*
+66. [fetchBranchNames](https://www.100jsfunctions.com/exercises/fetchBranchNames) -> [Solution](./66.%20fetchBranchNames/fetchBranchNames.js)
+67. [searchMessages](https://www.100jsfunctions.com/exercises/searchMessages) -> [Solution](./67.%20searchMessages/searchMessages.js) \*
+68. [objectToMap](https://www.100jsfunctions.com/exercises/objectToMap) -> [Solution](./68.%20objectToMap/objectToMap.js) \*
+69. [createQueue](https://www.100jsfunctions.com/exercises/createQueue) -> [Solution](./69.%20createQueue/createQueue.js)
+70. [createStack](https://www.100jsfunctions.com/exercises/createStack) -> [Solution](./70.%20createStack/createStack.js)
