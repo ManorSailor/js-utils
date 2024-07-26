@@ -83,3 +83,8 @@ This contains my solutions to the problems on the website.
 68. [objectToMap](https://www.100jsfunctions.com/exercises/objectToMap) -> [Solution](./68.%20objectToMap/objectToMap.js) \*
 69. [createQueue](https://www.100jsfunctions.com/exercises/createQueue) -> [Solution](./69.%20createQueue/createQueue.js)
 70. [createStack](https://www.100jsfunctions.com/exercises/createStack) -> [Solution](./70.%20createStack/createStack.js)
+71. [isSameWeek](https://www.100jsfunctions.com/exercises/isSameWeek) -> [Solution](./71.%20isSameWeek/isSameWeek.js) \*
+72. [bfsTraversal](https://www.100jsfunctions.com/exercises/bfsTraversal) -> [Solution](./72.%20bfsTraversal/bfsTraversal.js) \*
+73. [dfsTraversal](https://www.100jsfunctions.com/exercises/dfsTraversal) -> [Solution](./73.%20dfsTraversal/dfsTraversal.js) \*
+74. [getDoubleN](https://www.100jsfunctions.com/exercises/getDoubleN) -> [Solution](./74.%20getDoubleN/getDoubleN.js)
+75. [deepCopy](https://www.100jsfunctions.com/exercises/deepCopy) -> [Solution](./75.%20deepCopy/deepCopy.js)
