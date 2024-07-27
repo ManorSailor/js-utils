@@ -88,3 +88,8 @@ This contains my solutions to the problems on the website.
 73. [dfsTraversal](https://www.100jsfunctions.com/exercises/dfsTraversal) -> [Solution](./73.%20dfsTraversal/dfsTraversal.js) \*
 74. [getDoubleN](https://www.100jsfunctions.com/exercises/getDoubleN) -> [Solution](./74.%20getDoubleN/getDoubleN.js)
 75. [deepCopy](https://www.100jsfunctions.com/exercises/deepCopy) -> [Solution](./75.%20deepCopy/deepCopy.js)
+76. [uniqBy](https://www.100jsfunctions.com/exercises/uniqBy) -> [Solution](./76.%20uniqBy/uniqBy.js)
+77. [flow](https://www.100jsfunctions.com/exercises/flow) -> [Solution](./77.%20flow/flow.js)
+78. [createCounter](https://www.100jsfunctions.com/exercises/createCounter) -> [Solution](./78.%20createCounter/createCounter.js)
+79. [createPromise](https://www.100jsfunctions.com/exercises/createPromise) -> [Solution](./79.%20createPromise/createPromise.js)
+80. [reverseForEach](https://www.100jsfunctions.com/exercises/reverseForEach) -> [Solution](./80.%20reverseForEach/reverseForEach.js)
