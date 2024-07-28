@@ -97,4 +97,9 @@ This contains my solutions to the problems on the website.
 82. [sorted](https://www.100jsfunctions.com/exercises/sorted) -> [Solution](./82.%20sorted/sorted.js)
 83. [groupBy](https://www.100jsfunctions.com/exercises/groupBy) -> [Solution](./83.%20groupBy/groupBy.js)
 84. [createLinkedList](https://www.100jsfunctions.com/exercises/createLinkedList) -> [Solution](./84.%20createLinkedList/createLinkedList.js)
-85. [promiseOrder](https://www.100jsfunctions.com/exercises/promiseOrder) -> [Solution](./85.%20promiseOrder/promiseOrder.js)
+85. [promiseOrder](https://www.100jsfunctions.com/exercises/promiseOrder) -> [Solution](./85.%20promiseOrder/promiseOrder.js) \*
+86. [isDeepEqual](https://www.100jsfunctions.com/exercises/isDeepEqual) -> [Solution](./86.%20isDeepEqual/isDeepEqual.js)
+87. [delayResolve](https://www.100jsfunctions.com/exercises/delayResolve) -> [Solution](./87.%20delayResolve/delayResolve.js)
+88. [classInheritance](https://www.100jsfunctions.com/exercises/classInheritance) -> [Solution](./88.%20classInheritance/classInheritance.js)
+89. [customBind](https://www.100jsfunctions.com/exercises/customBind) -> [Solution](./89.%20customBind/customBind.js)
+90. [todoList](https://www.100jsfunctions.com/exercises/todoList) -> [Solution](./90.%20todoList/todoList.js)
