@@ -93,3 +93,8 @@ This contains my solutions to the problems on the website.
 78. [createCounter](https://www.100jsfunctions.com/exercises/createCounter) -> [Solution](./78.%20createCounter/createCounter.js)
 79. [createPromise](https://www.100jsfunctions.com/exercises/createPromise) -> [Solution](./79.%20createPromise/createPromise.js)
 80. [reverseForEach](https://www.100jsfunctions.com/exercises/reverseForEach) -> [Solution](./80.%20reverseForEach/reverseForEach.js)
+81. [checkSettlesInTime](https://www.100jsfunctions.com/exercises/checkSettlesInTime) -> [Solution](./81.%20checkSettlesInTime/checkSettlesInTime.js)
+82. [sorted](https://www.100jsfunctions.com/exercises/sorted) -> [Solution](./82.%20sorted/sorted.js)
+83. [groupBy](https://www.100jsfunctions.com/exercises/groupBy) -> [Solution](./83.%20groupBy/groupBy.js)
+84. [createLinkedList](https://www.100jsfunctions.com/exercises/createLinkedList) -> [Solution](./84.%20createLinkedList/createLinkedList.js)
+85. [promiseOrder](https://www.100jsfunctions.com/exercises/promiseOrder) -> [Solution](./85.%20promiseOrder/promiseOrder.js)
