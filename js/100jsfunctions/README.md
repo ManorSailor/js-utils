@@ -103,3 +103,8 @@ This contains my solutions to the problems on the website.
 88. [classInheritance](https://www.100jsfunctions.com/exercises/classInheritance) -> [Solution](./88.%20classInheritance/classInheritance.js)
 89. [customBind](https://www.100jsfunctions.com/exercises/customBind) -> [Solution](./89.%20customBind/customBind.js)
 90. [todoList](https://www.100jsfunctions.com/exercises/todoList) -> [Solution](./90.%20todoList/todoList.js)
+91. [reverseReduce](https://www.100jsfunctions.com/exercises/reverseReduce) -> [Solution](./91.%20reverseReduce/reverseReduce.js) \*
+92. [withCount](https://www.100jsfunctions.com/exercises/withCount) -> [Solution](./92.%20withCount/withCount.js)
+93. [maxInvocations](https://www.100jsfunctions.com/exercises/maxInvocations) -> [Solution](./93.%20maxInvocations/maxInvocations.js)
+94. [createObservable](https://www.100jsfunctions.com/exercises/createObservable) -> [Solution](./94.%20createObservable/createObservable.js)
+95. [createPubSub](https://www.100jsfunctions.com/exercises/createPubSub) -> [Solution](./95.%20createPubSub/createPubSub.js)
