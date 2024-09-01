@@ -108,3 +108,9 @@ This contains my solutions to the problems on the website.
 93. [maxInvocations](https://www.100jsfunctions.com/exercises/maxInvocations) -> [Solution](./93.%20maxInvocations/maxInvocations.js)
 94. [createObservable](https://www.100jsfunctions.com/exercises/createObservable) -> [Solution](./94.%20createObservable/createObservable.js)
 95. [createPubSub](https://www.100jsfunctions.com/exercises/createPubSub) -> [Solution](./95.%20createPubSub/createPubSub.js)
+96. [cacheGetResult](https://www.100jsfunctions.com/exercises/cacheGetResult) -> [Solution](./96.%20cacheGetResult/cacheGetResult.js) \*
+97. [currySum](https://www.100jsfunctions.com/exercises/currySum) -> [Solution](./97.%20currySum/currySum.js)
+98. [getCurry](https://www.100jsfunctions.com/exercises/getCurry) -> [Solution](./98.%20getCurry/getCurry.js)
+99. [throttle](https://www.100jsfunctions.com/exercises/throttle) -> [Solution](./99.%20throttle/throttle.js) \*
+100. [debounce](https://www.100jsfunctions.com/exercises/debounce) -> [Solution](./100.%20debounce/debounce.js) \*
+
