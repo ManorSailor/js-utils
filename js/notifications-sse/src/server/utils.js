@@ -2,9 +2,8 @@
  * Generates a notification
  */
 export function generateNotification() {
-  const id = crypto.randomUUID();
   return {
-    id,
+    id: crypto.randomUUID(),
     event: "notifications",
     severity: getSeverityLvl(),
     content: `Notification says: ${Math.floor(Math.random() * 100)}`,
