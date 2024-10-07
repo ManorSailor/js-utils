@@ -3,6 +3,7 @@ import ViteExpress from "vite-express";
 import { createMsg, generateNotification } from "./utils.js";
 
 const app = express();
+let sseRes;
 
 // SSE route. Client connects to this to route to receive events
 app.get("/sse/events", (req, res) => {
@@ -20,7 +21,22 @@ app.get("/sse/events", (req, res) => {
   res.on("close", () => {
     clearInterval(intervalId);
     res.end();
+    sseRes = null;
   });
+
+  // Store the SSE response ref
+  sseRes = res;
+});
+
+// Route to forcefully drop the on-going SSE
+app.put("/api/drop", (req, res) => {
+  if (!sseRes) {
+    res.status(404).send("No on-going SSE connection...");
+    return;
+  }
+
+  res.send("Dropping SSE connection...");
+  sseRes.end();
 });
 
 ViteExpress.listen(app, 3000, () =>
